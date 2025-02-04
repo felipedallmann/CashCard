@@ -1,4 +1,4 @@
-package example.cashCard.entities;
+package example.cashcard.entities;
 
 public record CashCard(Long id, Double amount){
 }
